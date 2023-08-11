@@ -1,0 +1,92 @@
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\obj\Debug\net6.0\Testimonial.csproj.AssemblyReference.cache
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\obj\Debug\net6.0\Testimonial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\obj\Debug\net6.0\Testimonial.AssemblyInfoInputs.cache
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\obj\Debug\net6.0\Testimonial.AssemblyInfo.cs
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\obj\Debug\net6.0\Testimonial.csproj.CoreCompileInputs.cache
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\obj\Debug\net6.0\Testimonial.MvcApplicationPartsAssemblyInfo.cs
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\obj\Debug\net6.0\Testimonial.MvcApplicationPartsAssemblyInfo.cache
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\bin\Debug\net6.0\JWTAuthorization.deps.json
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\bin\Debug\net6.0\JWTAuthorization.runtimeconfig.json
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\bin\Debug\net6.0\JWTAuthorization.exe
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\bin\Debug\net6.0\appsettings.Development.json
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\bin\Debug\net6.0\appsettings.json
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\bin\Debug\net6.0\Testimonial.exe
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\bin\Debug\net6.0\Testimonial.deps.json
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\bin\Debug\net6.0\Testimonial.runtimeconfig.json
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\bin\Debug\net6.0\Testimonial.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\bin\Debug\net6.0\Testimonial.pdb
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\bin\Debug\net6.0\JWTAuthorization.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\bin\Debug\net6.0\JWTAuthorization.pdb
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\obj\Debug\net6.0\staticwebassets\msbuild.Testimonial.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\obj\Debug\net6.0\staticwebassets\msbuild.build.Testimonial.props
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Testimonial.props
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Testimonial.props
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\obj\Debug\net6.0\staticwebassets.build.json
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\obj\Debug\net6.0\staticwebassets.development.json
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\obj\Debug\net6.0\scopedcss\bundle\Testimonial.styles.css
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\obj\Debug\net6.0\Testimonial.csproj.CopyComplete
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\obj\Debug\net6.0\Testimonial.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\obj\Debug\net6.0\refint\Testimonial.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\obj\Debug\net6.0\Testimonial.pdb
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\obj\Debug\net6.0\Testimonial.genruntimeconfig.cache
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\Testimonial\obj\Debug\net6.0\ref\Testimonial.dll
+D:\Repos\MSCommercial\Testimonial\bin\Debug\net6.0\appsettings.Development.json
+D:\Repos\MSCommercial\Testimonial\bin\Debug\net6.0\appsettings.json
+D:\Repos\MSCommercial\Testimonial\bin\Debug\net6.0\JWTAuthorization.deps.json
+D:\Repos\MSCommercial\Testimonial\bin\Debug\net6.0\JWTAuthorization.runtimeconfig.json
+D:\Repos\MSCommercial\Testimonial\bin\Debug\net6.0\JWTAuthorization.exe
+D:\Repos\MSCommercial\Testimonial\bin\Debug\net6.0\Testimonial.exe
+D:\Repos\MSCommercial\Testimonial\bin\Debug\net6.0\Testimonial.deps.json
+D:\Repos\MSCommercial\Testimonial\bin\Debug\net6.0\Testimonial.runtimeconfig.json
+D:\Repos\MSCommercial\Testimonial\bin\Debug\net6.0\Testimonial.dll
+D:\Repos\MSCommercial\Testimonial\bin\Debug\net6.0\Testimonial.pdb
+D:\Repos\MSCommercial\Testimonial\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Repos\MSCommercial\Testimonial\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Repos\MSCommercial\Testimonial\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Repos\MSCommercial\Testimonial\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Repos\MSCommercial\Testimonial\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Repos\MSCommercial\Testimonial\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Repos\MSCommercial\Testimonial\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Repos\MSCommercial\Testimonial\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Repos\MSCommercial\Testimonial\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Repos\MSCommercial\Testimonial\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Repos\MSCommercial\Testimonial\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Repos\MSCommercial\Testimonial\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Repos\MSCommercial\Testimonial\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Repos\MSCommercial\Testimonial\bin\Debug\net6.0\JWTAuthorization.dll
+D:\Repos\MSCommercial\Testimonial\bin\Debug\net6.0\JWTAuthorization.pdb
+D:\Repos\MSCommercial\Testimonial\obj\Debug\net6.0\Testimonial.csproj.AssemblyReference.cache
+D:\Repos\MSCommercial\Testimonial\obj\Debug\net6.0\Testimonial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\MSCommercial\Testimonial\obj\Debug\net6.0\Testimonial.AssemblyInfoInputs.cache
+D:\Repos\MSCommercial\Testimonial\obj\Debug\net6.0\Testimonial.AssemblyInfo.cs
+D:\Repos\MSCommercial\Testimonial\obj\Debug\net6.0\Testimonial.csproj.CoreCompileInputs.cache
+D:\Repos\MSCommercial\Testimonial\obj\Debug\net6.0\Testimonial.MvcApplicationPartsAssemblyInfo.cs
+D:\Repos\MSCommercial\Testimonial\obj\Debug\net6.0\Testimonial.MvcApplicationPartsAssemblyInfo.cache
+D:\Repos\MSCommercial\Testimonial\obj\Debug\net6.0\staticwebassets\msbuild.Testimonial.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Repos\MSCommercial\Testimonial\obj\Debug\net6.0\staticwebassets\msbuild.build.Testimonial.props
+D:\Repos\MSCommercial\Testimonial\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Testimonial.props
+D:\Repos\MSCommercial\Testimonial\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Testimonial.props
+D:\Repos\MSCommercial\Testimonial\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Repos\MSCommercial\Testimonial\obj\Debug\net6.0\staticwebassets.build.json
+D:\Repos\MSCommercial\Testimonial\obj\Debug\net6.0\staticwebassets.development.json
+D:\Repos\MSCommercial\Testimonial\obj\Debug\net6.0\scopedcss\bundle\Testimonial.styles.css
+D:\Repos\MSCommercial\Testimonial\obj\Debug\net6.0\Testimonial.csproj.CopyComplete
+D:\Repos\MSCommercial\Testimonial\obj\Debug\net6.0\Testimonial.dll
+D:\Repos\MSCommercial\Testimonial\obj\Debug\net6.0\refint\Testimonial.dll
+D:\Repos\MSCommercial\Testimonial\obj\Debug\net6.0\Testimonial.pdb
+D:\Repos\MSCommercial\Testimonial\obj\Debug\net6.0\Testimonial.genruntimeconfig.cache
+D:\Repos\MSCommercial\Testimonial\obj\Debug\net6.0\ref\Testimonial.dll

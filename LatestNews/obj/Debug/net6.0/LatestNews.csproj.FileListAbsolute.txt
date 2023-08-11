@@ -1,0 +1,92 @@
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\bin\Debug\net6.0\JWTAuthorization.deps.json
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\bin\Debug\net6.0\JWTAuthorization.runtimeconfig.json
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\bin\Debug\net6.0\JWTAuthorization.exe
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\bin\Debug\net6.0\appsettings.Development.json
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\bin\Debug\net6.0\appsettings.json
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\bin\Debug\net6.0\LatestNews.exe
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\bin\Debug\net6.0\LatestNews.deps.json
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\bin\Debug\net6.0\LatestNews.runtimeconfig.json
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\bin\Debug\net6.0\LatestNews.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\bin\Debug\net6.0\LatestNews.pdb
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\bin\Debug\net6.0\JWTAuthorization.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\bin\Debug\net6.0\JWTAuthorization.pdb
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\obj\Debug\net6.0\LatestNews.csproj.AssemblyReference.cache
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\obj\Debug\net6.0\LatestNews.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\obj\Debug\net6.0\LatestNews.AssemblyInfoInputs.cache
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\obj\Debug\net6.0\LatestNews.AssemblyInfo.cs
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\obj\Debug\net6.0\LatestNews.csproj.CoreCompileInputs.cache
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\obj\Debug\net6.0\LatestNews.MvcApplicationPartsAssemblyInfo.cs
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\obj\Debug\net6.0\LatestNews.MvcApplicationPartsAssemblyInfo.cache
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\obj\Debug\net6.0\staticwebassets\msbuild.LatestNews.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\obj\Debug\net6.0\staticwebassets\msbuild.build.LatestNews.props
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LatestNews.props
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LatestNews.props
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\obj\Debug\net6.0\staticwebassets.build.json
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\obj\Debug\net6.0\staticwebassets.development.json
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\obj\Debug\net6.0\scopedcss\bundle\LatestNews.styles.css
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\obj\Debug\net6.0\LatestNews.csproj.CopyComplete
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\obj\Debug\net6.0\LatestNews.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\obj\Debug\net6.0\refint\LatestNews.dll
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\obj\Debug\net6.0\LatestNews.pdb
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\obj\Debug\net6.0\LatestNews.genruntimeconfig.cache
+D:\Shivam\Shivam Development\.net Core API\LinuxCommercial\LatestNews\obj\Debug\net6.0\ref\LatestNews.dll
+D:\Repos\MSCommercial\LatestNews\bin\Debug\net6.0\appsettings.Development.json
+D:\Repos\MSCommercial\LatestNews\bin\Debug\net6.0\appsettings.json
+D:\Repos\MSCommercial\LatestNews\bin\Debug\net6.0\JWTAuthorization.deps.json
+D:\Repos\MSCommercial\LatestNews\bin\Debug\net6.0\JWTAuthorization.runtimeconfig.json
+D:\Repos\MSCommercial\LatestNews\bin\Debug\net6.0\JWTAuthorization.exe
+D:\Repos\MSCommercial\LatestNews\bin\Debug\net6.0\LatestNews.exe
+D:\Repos\MSCommercial\LatestNews\bin\Debug\net6.0\LatestNews.deps.json
+D:\Repos\MSCommercial\LatestNews\bin\Debug\net6.0\LatestNews.runtimeconfig.json
+D:\Repos\MSCommercial\LatestNews\bin\Debug\net6.0\LatestNews.dll
+D:\Repos\MSCommercial\LatestNews\bin\Debug\net6.0\LatestNews.pdb
+D:\Repos\MSCommercial\LatestNews\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Repos\MSCommercial\LatestNews\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Repos\MSCommercial\LatestNews\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Repos\MSCommercial\LatestNews\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Repos\MSCommercial\LatestNews\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Repos\MSCommercial\LatestNews\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Repos\MSCommercial\LatestNews\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Repos\MSCommercial\LatestNews\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Repos\MSCommercial\LatestNews\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Repos\MSCommercial\LatestNews\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Repos\MSCommercial\LatestNews\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Repos\MSCommercial\LatestNews\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Repos\MSCommercial\LatestNews\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Repos\MSCommercial\LatestNews\bin\Debug\net6.0\JWTAuthorization.dll
+D:\Repos\MSCommercial\LatestNews\bin\Debug\net6.0\JWTAuthorization.pdb
+D:\Repos\MSCommercial\LatestNews\obj\Debug\net6.0\LatestNews.csproj.AssemblyReference.cache
+D:\Repos\MSCommercial\LatestNews\obj\Debug\net6.0\LatestNews.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\MSCommercial\LatestNews\obj\Debug\net6.0\LatestNews.AssemblyInfoInputs.cache
+D:\Repos\MSCommercial\LatestNews\obj\Debug\net6.0\LatestNews.AssemblyInfo.cs
+D:\Repos\MSCommercial\LatestNews\obj\Debug\net6.0\LatestNews.csproj.CoreCompileInputs.cache
+D:\Repos\MSCommercial\LatestNews\obj\Debug\net6.0\LatestNews.MvcApplicationPartsAssemblyInfo.cs
+D:\Repos\MSCommercial\LatestNews\obj\Debug\net6.0\LatestNews.MvcApplicationPartsAssemblyInfo.cache
+D:\Repos\MSCommercial\LatestNews\obj\Debug\net6.0\staticwebassets\msbuild.LatestNews.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Repos\MSCommercial\LatestNews\obj\Debug\net6.0\staticwebassets\msbuild.build.LatestNews.props
+D:\Repos\MSCommercial\LatestNews\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LatestNews.props
+D:\Repos\MSCommercial\LatestNews\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LatestNews.props
+D:\Repos\MSCommercial\LatestNews\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Repos\MSCommercial\LatestNews\obj\Debug\net6.0\staticwebassets.build.json
+D:\Repos\MSCommercial\LatestNews\obj\Debug\net6.0\staticwebassets.development.json
+D:\Repos\MSCommercial\LatestNews\obj\Debug\net6.0\scopedcss\bundle\LatestNews.styles.css
+D:\Repos\MSCommercial\LatestNews\obj\Debug\net6.0\LatestNews.csproj.CopyComplete
+D:\Repos\MSCommercial\LatestNews\obj\Debug\net6.0\LatestNews.dll
+D:\Repos\MSCommercial\LatestNews\obj\Debug\net6.0\refint\LatestNews.dll
+D:\Repos\MSCommercial\LatestNews\obj\Debug\net6.0\LatestNews.pdb
+D:\Repos\MSCommercial\LatestNews\obj\Debug\net6.0\LatestNews.genruntimeconfig.cache
+D:\Repos\MSCommercial\LatestNews\obj\Debug\net6.0\ref\LatestNews.dll

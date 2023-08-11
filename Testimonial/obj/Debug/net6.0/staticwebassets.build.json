@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "ngpJVPd09KfcqKXDAWnXDkRVry0mScdW30v/xtCYsGo=",
+  "Source": "Testimonial",
+  "BasePath": "_content/Testimonial",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Repos\\MSCommercial\\JWTAuthorization\\JWTAuthorization.csproj",
+      "Version": 2,
+      "Source": "JWTAuthorization",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
