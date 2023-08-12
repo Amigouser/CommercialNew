@@ -7,10 +7,10 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
-COPY ["JWTAuthorization/JWTAuthorization.csproj", "JWTAuthorization/"]
-RUN dotnet restore "JWTAuthorization/JWTAuthorization.csproj"
+COPY ["JWTAuthorization.csproj", "."]
+RUN dotnet restore "./JWTAuthorization.csproj"
 COPY . .
-WORKDIR "/src/JWTAuthorization"
+WORKDIR "/src/."
 RUN dotnet build "JWTAuthorization.csproj" -c Release -o /app/build
 
 FROM build AS publish
